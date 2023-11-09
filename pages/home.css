@@ -1,0 +1,11 @@
+#message {
+    border-color: rgb(2, 189, 110) !important;
+}
+
+.gradient-text {
+    background: -webkit-linear-gradient( 136deg, rgb(11, 238, 47) 0%, rgb(3, 131, 138) 50%, rgb(0, 183, 114) 100%) !important;
+    background-clip: border-box !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    font-size: 2.5rem !important;
+}
